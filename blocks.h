@@ -11,7 +11,7 @@ static const Block blocks[] = {
 	{"", "~/.config/dwmbar/storage",	-1,		4},
 	{"", "~/.config/dwmbar/battery",	30,		5},
 	{"", "~/.config/dwmbar/volumen",	0,		6},
-	{"", "~/.config/dwmbar/weather",	-1,		7},
+	{"", "~/.config/dwmbar/weather",	10800,		7},
 	{"", "~/.config/dwmbar/keyboard",	2,		8},
 	{"", "~/.config/dwmbar/date",		-1,		9},
 	{"", "~/.config/dwmbar/time",		40,		10},
