@@ -5,7 +5,7 @@ static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval (s)*/	/*Update Signal*/
 
 	{"", "~/.config/dwmbar/mpc",		2,		1},
-	{"", "~/.config/dwmbar/criptomoneda",	-1,		2},
+	{"", "~/.config/dwmbar/criptomoneda",	400,		2},
 	//{"", "~/.config/dwmbar/transmission",	10,		16},
 	{"", "~/.config/dwmbar/ram_cpu",	30,		3},
 	{"", "~/.config/dwmbar/storage",	-1,		4},
