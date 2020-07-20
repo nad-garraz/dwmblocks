@@ -13,8 +13,8 @@ static const Block blocks[] = {
 	{"", "~/.config/dwmbar/volumen",	0,		6},
 	{"", "~/.config/dwmbar/weather",	10800,		7},
 	{"", "~/.config/dwmbar/keyboard",	2,		8},
-	{"", "~/.config/dwmbar/date",		-1,		9},
-	{"", "~/.config/dwmbar/time",		40,		10},
+	{"", "~/.config/dwmbar/date",		1800,		9},
+	{"", "~/.config/dwmbar/time",		60,		10},
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
