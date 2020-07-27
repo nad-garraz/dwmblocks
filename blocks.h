@@ -5,13 +5,13 @@ static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval (s)*/	/*Update Signal*/
 
 	{"", "~/.config/dwmbar/mpc",		2,		1},
-	{"", "~/.config/dwmbar/criptomoneda",	400,		2},
+	{"", "~/.config/dwmbar/criptomoneda",	1802,		2},
 	{"", "~/.config/dwmbar/transmission",	10,		16},
 	{"", "~/.config/dwmbar/ram_cpu",	30,		3},
 	{"", "~/.config/dwmbar/storage",	-1,		4},
 	{"", "~/.config/dwmbar/battery",	30,		5},
 	{"", "~/.config/dwmbar/volumen",	0,		6},
-	{"", "~/.config/dwmbar/weather",	10800,		7},
+	{"", "~/.config/dwmbar/weather",	3610,		7},
 	{"", "~/.config/dwmbar/keyboard",	2,		8},
 	{"", "~/.config/dwmbar/date",		1800,		9},
 	{"", "~/.config/dwmbar/time",		60,		10},
